@@ -119,12 +119,12 @@ Isso garante que:
 
 ## 👥 Equipe
    NOME                     
-- [Paulo Sergio] 
-- [Alyce Victoria]
-- [Thays Larissa]
-- [Eduardo ]
-- [Leandro Gonçalves]
-- [Isabela Braz]
+- [Paulo Sergio = 01835151] 
+- [Alyce Victoria = 01814992]
+- [Thays Larissa = 01834961]
+- [Eduardo = 01824297]
+- [Leandro Gonçalves = 01800086]
+- [Isabela Braz = 01861647]
 
 ## 📅 Data de Apresentação
 
