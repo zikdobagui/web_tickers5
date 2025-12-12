@@ -122,7 +122,7 @@ Isso garante que:
 - [Paulo Sergio = 01835151] 
 - [Alyce Victoria = 01814992]
 - [Thays Larissa = 01834961]
-- [Eduardo = 01824297]
+- [Eduardo Gonçalves = 01824297]
 - [Leandro Gonçalves = 01800086]
 - [Isabela Braz = 01861647]
 
